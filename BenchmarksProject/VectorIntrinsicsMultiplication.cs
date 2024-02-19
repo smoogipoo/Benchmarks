@@ -3,7 +3,6 @@
 
 using System.Numerics;
 using System.Linq;
-using System.Runtime.Intrinsics;
 using BenchmarkDotNet.Attributes;
 
 namespace BenchmarksProject
